@@ -20,6 +20,7 @@
 		<div class="row justify-content-center">
 			<a class="btn btn-primary" href="productosnuevo">Agregar Producto</a>
 			<a class="btn btn-primary" href="tipoproductos">Tipo de Productos</a>
+			<a class="btn btn-primary" href="menu">Menu</a>
 		</div>
 		<hr />
 		<div class="row justify-content-center">
